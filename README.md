@@ -1,2 +1,2 @@
 # Fake-news-detector
-A ML project on a American election news database
+An ML project on the American election news database
